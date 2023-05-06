@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    height: 100vh;
+    background-image: url(images/general-trip.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
